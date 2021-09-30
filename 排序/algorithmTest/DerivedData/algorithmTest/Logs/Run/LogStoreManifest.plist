@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2FE5E8AB-E6EA-433B-8E14-CEE04AEB560D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2FE5E8AB-E6EA-433B-8E14-CEE04AEB560D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654588946.62386799</real>
+			<key>timeStoppedRecording</key>
+			<real>654589198.07395601</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2FE5E8AB-E6EA-433B-8E14-CEE04AEB560D</string>
+		</dict>
+		<key>72D2D2BD-ADB1-4F13-A38C-586B9483FA0C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>72D2D2BD-ADB1-4F13-A38C-586B9483FA0C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654575290.33432996</real>
+			<key>timeStoppedRecording</key>
+			<real>654575292.61291003</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>72D2D2BD-ADB1-4F13-A38C-586B9483FA0C</string>
+		</dict>
+		<key>95FB6CDF-635B-467B-90EC-24ABCCA9ACB4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>95FB6CDF-635B-467B-90EC-24ABCCA9ACB4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654589226.06465197</real>
+			<key>timeStoppedRecording</key>
+			<real>654589228.27997005</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>95FB6CDF-635B-467B-90EC-24ABCCA9ACB4</string>
+		</dict>
+		<key>9CC88BA1-A6E9-4D74-98F5-7752E4F58E54</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9CC88BA1-A6E9-4D74-98F5-7752E4F58E54.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654575246.88414705</real>
+			<key>timeStoppedRecording</key>
+			<real>654575261.70906305</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>9CC88BA1-A6E9-4D74-98F5-7752E4F58E54</string>
+		</dict>
+		<key>A5061BF2-E593-4DB9-9DE3-B92FCDA06DD8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A5061BF2-E593-4DB9-9DE3-B92FCDA06DD8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654589198.64880204</real>
+			<key>timeStoppedRecording</key>
+			<real>654589226.00978506</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>A5061BF2-E593-4DB9-9DE3-B92FCDA06DD8</string>
+		</dict>
+		<key>CC7E4464-570D-4661-B413-52A5366B70DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CC7E4464-570D-4661-B413-52A5366B70DA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>algorithmTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>algorithmTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run algorithmTest</string>
+			<key>timeStartedRecording</key>
+			<real>654512092.42394495</real>
+			<key>timeStoppedRecording</key>
+			<real>654512105.21301401</real>
+			<key>title</key>
+			<string>Run algorithmTest</string>
+			<key>uniqueIdentifier</key>
+			<string>CC7E4464-570D-4661-B413-52A5366B70DA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
